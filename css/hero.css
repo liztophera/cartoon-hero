@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: Helvetica, Ariel, sans-serif;
+	font-family: 'Pangolin', cursive;
 	font: 20px;
 	line-height: 30px;
 }
@@ -14,6 +14,8 @@ header{
 h1, h2{
 	font-family: 'Bangers', cursive;
 }
+
+/*header styles */
 
 header h1{
 
